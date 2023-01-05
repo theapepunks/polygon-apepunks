@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xff564fCE93a2917c335A2e60192cA641F3AaB72E",
+  "SCAN_LINK": "https://polygonscan.com/token/0xff564fCE93a2917c335A2e60192cA641F3AaB72E",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "MATIC",
+    "ID": 137
+  },
+  "NFT_NAME": "Polygon Apepunks",
+  "SYMBOL": "PAPES",
+  "MAX_SUPPLY": 7777,
+  "WEI_COST": 10000000000000000000,
+  "DISPLAY_COST": 10,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/polyapepunks",
+  "SHOW_BACKGROUND": true
+}
